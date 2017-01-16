@@ -7,6 +7,8 @@ public class UsoAbstracto extends Abstracta {
 		// TODO Auto-generated method stub
 		UsoAbstracto usoAbs = new UsoAbstracto();
 		usoAbs.miMetodo();
+		
+		String s[] = new String[]{"Zero", "One", "Two"};
 	}
 
 	@Override
