@@ -1,7 +1,9 @@
 package exam.mock4;
 
 public class Exception_3 {
+	static int x;
 	public static void main(String[] args) {
+		x = 0;
 		int[][] twoD = { { 1, 2, 3 }, { 4, 5, 6, 7 }, { 8, 9, 10 } };
 		System.out.println(twoD[1].length);
 		System.out.println(twoD[2].getClass().isArray());
