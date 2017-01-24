@@ -17,7 +17,7 @@ public class Test {
 		boolean a = true;
 		boolean b = false;
 		boolean c = true;
-		if(a==true)
+		if(a=false)
 			if(b==true)
 				if(c==true)
 					System.out.println("True");

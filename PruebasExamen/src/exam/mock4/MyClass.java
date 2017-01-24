@@ -15,5 +15,6 @@ public class MyClass {
 	public void aMethod(int x, String y){}
 	public void aMethod(String x, int y){}
 	public void AMethod(int x, String y){}
+	public void metodo(int a, String... b){}
 	
 }
